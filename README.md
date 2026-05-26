@@ -1,2 +1,2 @@
-# Resold
-tugas web landing page
+# risolmayo
+Website Bussiness risol mayo
